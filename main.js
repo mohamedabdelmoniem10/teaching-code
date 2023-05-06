@@ -1,0 +1,4 @@
+function summition() {}
+
+if (condition) {
+}
